@@ -1,0 +1,21 @@
+{
+    "name": "vinicius_rezende/app_poligonos",
+    "description": "Liskov Substitution Principle",
+    "autoload": {
+        "psr-4": {
+            "ViniciusRezende\\AppPoligonos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vinicius Rezende",
+            "email": "vinicius.rezende@rethink.dev"
+        }
+    ],
+    "require": {},
+     "autoload-dev": {
+        "psr-4": {
+            "src\\":"src/"
+        }
+    }
+}
